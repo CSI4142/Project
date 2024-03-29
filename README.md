@@ -33,6 +33,8 @@ Files related to Phase 3 are organized in directories under the `phase3` folder 
 - `phase3/part2` - Contains SQL queries for Part 2: Explorative operations.
 - `phase3/part3` - Contains information and files related to Part B: BI dashboard and information visualization.
 
+Details regarding BI dashboard can be found in the [phase3/part3/README.md](./phase3/part3/README.md) file. Dashboard can be accessed at [https://csi.pkural.ca/](https://csi.pkural.ca/) using the credentials provided in the project report or with the project submission.
+
 ## References
 
 Bank Customer Churn Dataset - https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data
