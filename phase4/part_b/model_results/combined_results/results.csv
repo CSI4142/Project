@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,Training Time
+Random Forest,0.9986666666666668,0.9933110367892976,1.0,0.159419298171997

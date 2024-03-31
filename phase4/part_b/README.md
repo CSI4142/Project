@@ -20,3 +20,7 @@ Each result file contains one header row and a single data row, with the followi
 ```
 Model,Accuracy,Precision,Recall,Training Time
 ```
+
+### Results Processing
+
+The notebook `combine_results.ipynb` in directory `utils` is used to combine the results stored in individual CSV files present in the `model_results` directory. The combined results are stored in a new CSV file `results.csv` and an HTML file `results.html` in the `model_results/combined_results` directory.
