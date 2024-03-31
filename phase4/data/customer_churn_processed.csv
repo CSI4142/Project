@@ -1,4 +1,4 @@
-Complain,IsActiveMember,Age,Gender,Balance,Point Earned,Geography,NumOfProducts,Exited
+Complain,IsActiveMember,Age,Gender,Balance,Point Earned,Geography,NumOfProducts,Churn
 1,1,0.3243243243243243,0,0.0,464,0,0.0,1
 1,1,0.3108108108108108,0,0.334031478677259,456,2,0.0,0
 1,0,0.3243243243243243,0,0.6363571759354565,377,0,0.6666666666666667,1
