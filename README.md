@@ -10,6 +10,7 @@ Finally, we will use data mining techniques to discover hidden patterns, classif
   - [Goal](#goal)
   - [Phase 2: Data Loading and Staging](#phase-2-data-loading-and-staging)
   - [Phase 3: OLAP Queries and BI Dashboards](#phase-3-olap-queries-and-bi-dashboards)
+  - [Phase 4: Data Mining and Machine Learning](#phase-4-data-mining-and-machine-learning)
   - [References](#references)
   - [Project Team](#project-team)
 
@@ -34,6 +35,19 @@ Files related to Phase 3 are organized in directories under the `phase3` folder 
 - `phase3/part3` - Contains information and files related to Part B: BI dashboard and information visualization.
 
 Details regarding BI dashboard can be found in the [phase3/part3/README.md](./phase3/part3/README.md) file. Dashboard can be accessed at [https://csi.pkural.ca/](https://csi.pkural.ca/) using the credentials provided in the project report or with the project submission.
+
+## Phase 4: Data Mining and Machine Learning
+
+The data mining and machine learning tasks have been performed in **Phase 4**.
+
+Files related to Phase 4 are organized in directories under the `phase4` folder as mentioned below:
+
+- `phase4/part_a` - Contains the data summarization and data transformation code.
+- `phase4/part_b` - Contains the code for classification (supervised machine learning). It is futher organized into subdirectories as:
+  - `models` - Contains notebooks for training the models for the three supervised learning algorithms: Decision Tree, Gradient Boosting, and Random Forest.
+  - `model_results` - Contains the results of the models trained in the `models` directory.
+  - `utils` - Contains additional code used for preparation of results for submission, etc.
+- `phase4/part_c` - Contains the code for outlier detection.
 
 ## References
 
