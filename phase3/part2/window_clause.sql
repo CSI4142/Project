@@ -1,4 +1,5 @@
 -- Window query to analyze and rank average salary by country and gender
+-- Display the ranking of genders in terms of average salary, as reported per country.
 
 SELECT
     gender,
