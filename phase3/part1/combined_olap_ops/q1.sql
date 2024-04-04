@@ -1,5 +1,5 @@
 -- Combined OLAP Query 1
--- Compare the churn rate for between men in France versus men in Spain
+-- Compare the churn rate between men in France versus men in Spain
 
 SELECT
     -- Dimensions for drill down/roll up: country and gender
