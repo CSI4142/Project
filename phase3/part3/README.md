@@ -4,10 +4,12 @@ For **Part B** of Phase 3, BI dashboard and information visualization, we have u
 
 ## Metabase Dashboard
 
-We've hosted our Metabase instance on a cloud server, and the dashboard can be accessed using the following link:
+We've hosted our Metabase instance on a cloud server, and it can be accessed using the following link:
 [https://csi.pkural.ca/](https://csi.pkural.ca/)
 
-Credentials to access the dashboard are provided in the project report and have been shared with the project submission.
+Credentials to access Metabase are provided in the BI Dashboard PDF file submitted in the phase 3 submission.
+
+If you only need to view the BI dashboard, it can be viewed live at: [https://csi.pkural.ca/public/dashboard/f079838a-6014-4cb4-894d-cb88a743755c](https://csi.pkural.ca/public/dashboard/f079838a-6014-4cb4-894d-cb88a743755c)
 
 ## Running Metabase Locally
 
