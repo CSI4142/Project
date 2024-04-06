@@ -1,4 +1,4 @@
-- Window Clause OLAP Query
+-- Window Clause OLAP Query
 -- Calculate the rank of customers based on their credit score and compare it with their churn status.
 
 WITH RankedCustomers AS (
