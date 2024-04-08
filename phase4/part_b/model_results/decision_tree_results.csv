@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,Training Time
+Decision Tree,0.998,0.9983498349834984,0.9918032786885246,0.008754253387451172
