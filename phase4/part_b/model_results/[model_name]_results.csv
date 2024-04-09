@@ -1,2 +1,2 @@
-Model,Accuracy,Precision,Recall,Training Time
-[model_name],0.998,0.9909228441754917,1.0,0.494657039642334
+Model,Accuracy,Precision,Recall,Training Time,F1 score
+[model_name],0.9983333333333333,0.9966887417218543,0.9950413223140496,0.7044620513916016,0.9958643507030605
