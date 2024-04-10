@@ -1,2 +1,2 @@
-Model,Accuracy,Precision,Recall,Training Time,F1 score
-Gradient Boosting,0.998333,0.996689,0.995041,0.704462,0.995864
+Model,Accuracy,Precision,Recall,F1 score,Training Time
+Gradient Boosting,0.997,0.9897084048027445,0.9948275862068966,0.9922613929492692,0.40639495849609375
