@@ -2,6 +2,8 @@
 
 ## Data Summarization
 
+In this step, we will try to analyze the data and get the "feel" of the data. In order to do that we look at the data values, columns, and distribution. We also create plots of graphs to see if there are any obvious trends present in the data. This step is necessary for the next steps if we want to train a machine learning model to analyze the data and predict customer churn.
+
 ## Data Transformation
 
 In the data transformation stage, we performed the following tasks:

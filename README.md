@@ -46,7 +46,8 @@ Files related to Phase 4 are organized in directories under the `phase4` folder 
 - `phase4/part_b` - Contains the code for classification (supervised machine learning). It is futher organized into subdirectories as:
   - `models` - Contains notebooks for training the models for the three supervised learning algorithms: Decision Tree, Gradient Boosting, and Random Forest.
   - `model_results` - Contains the results of the models trained in the `models` directory.
-  - `utils` - Contains additional code used for preparation of results for submission, etc.
+    - `model_results/combined_results` - Contains the combined results of the models.
+    - `model_results/notebooks` - Contains the notebook used to combine the results and to analyze the results.
 - `phase4/part_c` - Contains the code for outlier detection.
 
 ## References
